@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd4ddc4c-32fc-4bdd-8a74-5ff1d2bd24c1" name="変更" comment="java黒本のコードの動きを見てみたい用">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kuro4_1/OptionalSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kuro4_3/orElseGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kuro4_3/orElseSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ29/SampleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ29/TestException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kuro4_4/orElseThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kuro4_4/orElseThrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +34,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3eb223d6-0a0a-4af9-8e1c-ca64ef3a6de8" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jKgcnoWCM5Ssw0XMxmiTOGaUUR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,12 +48,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "アプリケーション.OptionalSample.executor": "Run",
+    "アプリケーション.Sample.executor": "Debug",
     "アプリケーション.orElseGet.executor": "Run",
     "アプリケーション.orElseSample.executor": "Run",
-    "アプリケーション.orElseThrow.executor": "Run"
+    "アプリケーション.orElseThrow.executor": "Run",
+    "アプリケーション.sample.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -91,11 +91,58 @@
       <option name="project" value="LOCAL" />
       <updated>1721141670766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java黒本のコードの動きを見てみたい用">
+      <option name="closed" value="true" />
+      <created>1721201701250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201701250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java黒本のコードの動きを見てみたい用">
+      <option name="closed" value="true" />
+      <created>1721201709206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721201709206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java黒本のコードの動きを見てみたい用" />
     <option name="LAST_COMMIT_MESSAGE" value="java黒本のコードの動きを見てみたい用" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mosiQ29/SampleException.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mosiQ29/TestException.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
