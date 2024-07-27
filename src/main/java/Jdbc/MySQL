@@ -1,0 +1,33 @@
+
+CREATE DATABASE sampledb;
+
+CREATE TABLE sampledb.student (
+        no int PRIMARY KEY,
+        name varchar(10),
+    score int
+);
+
+insert into student values(1,'菅原',60);
+insert into student values(2,'桜井',100);
+insert into student values(3,'田原',85);
+insert into student values(4,'中川',90);
+insert into student values(5,'鈴木',75);
+
+select * from student;
+
+select * from student
+ where 50 <= score and score <= 80;
+
+ select * from student
+ where score between 80 and 100;
+
+select * from student
+where name like "%原";
+
+update student set score = score + 5
+where no = 1;
+
+delete from student where no = 1;
+
+-----------------------------------------------------------------------------------------------
+

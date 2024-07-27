@@ -4,36 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd4ddc4c-32fc-4bdd-8a74-5ff1d2bd24c1" name="変更" comment="`java黒本のコードの動きを見てみたい用`">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/DeprecatedSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/DeprecatedSample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/FunctionalInteaFaceSample/FunctionalInterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/FunctionalInteaFaceSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/SuppressWarning_deprecation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/SuppressWarningsSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/SuppressWarnings_all.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/Vararges/FinalVarargesAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/Vararges/StaticVarargesAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/Vararges/VarargesSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Comparator/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/try_with_resources/MyResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/try_with_resources/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/try_with_resources/Throwable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Excutor/newFixedThreadpool/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Excutor/newSingleThreadExecutor/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtendsThread/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImplRunnable/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ImplRunnable/lambdaRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterFace/SupplierSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Optional/map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadMethod/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mosi36/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ33/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ33/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mosiQ35/Sample.java" afterDir="false" />
+    <list default="true" id="bd4ddc4c-32fc-4bdd-8a74-5ff1d2bd24c1" name="変更" comment="色々">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Black7/Currncy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CallableSubmit/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaceStreamMethod/FunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaceStreamMethod/customFunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Jdbc/MySQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Jdbc/Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Jdbc/prepareStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RunnableFuture/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sekachan/Stream/ByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_filter/CombinedSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_filter/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream_filter/customPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parallelStream/ParallelStreamPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parallelStream/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parallelStream/Samplparallel_sorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mosiQ29/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Black7/ItemList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Black7/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exception/try_with_resources/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exception/try_with_resources/Sample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadMethod/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mosi36/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mosi36/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mosiQ35/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mosiQ35/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,38 +61,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "アプリケーション.DeprecatedSample.executor": "Run",
-    "アプリケーション.Excutor.newFixedThreadpool.Sample.executor": "Run",
-    "アプリケーション.Excutor.newSingleThreadExecutor.Sample.executor": "Run",
-    "アプリケーション.ExtendsThread.Sample.executor": "Run",
-    "アプリケーション.FinalVarargesAnnotation.executor": "Run",
-    "アプリケーション.ImplRunnable.Sample.executor": "Run",
-    "アプリケーション.Main.executor": "Run",
-    "アプリケーション.OptionalSample.executor": "Run",
-    "アプリケーション.Sample.executor": "Run",
-    "アプリケーション.Sample1.executor": "Run",
-    "アプリケーション.StaticVarargesAnnotation.executor": "Run",
-    "アプリケーション.SuppressWarning_deprecation.executor": "Run",
-    "アプリケーション.SuppressWarnings_all.executor": "Run",
-    "アプリケーション.Throwable.executor": "Run",
-    "アプリケーション.VarargesSample.executor": "Run",
-    "アプリケーション.lambdaRunnable.executor": "Run",
-    "アプリケーション.map.executor": "Run",
-    "アプリケーション.mapLambda.executor": "Run",
-    "アプリケーション.orElseGet.executor": "Run",
-    "アプリケーション.orElseSample.executor": "Run",
-    "アプリケーション.orElseThrow.executor": "Run",
-    "アプリケーション.sample.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/uetak330/MySQL/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;promo.database&quot;,
+    &quot;アプリケーション.ByteStream.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.CallableSubmit.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.CombinedSample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.DeprecatedSample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Excutor.newFixedThreadpool.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Excutor.newSingleThreadExecutor.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.ExtendsThread.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.FinalVarargesAnnotation.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.FunctionInterface.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.ImplRunnable.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Main.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.OptionalSample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.ParallelStreamPerformance.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.RunnableExample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.RunnableFuture.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sample (1).executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sample1.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.StaticVarargesAnnotation.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Stream_filter.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.SuppressWarning_deprecation.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.SuppressWarnings_all.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Throwable.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.VarargesSample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.customFunctionInterface.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.customPredicate.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.lambdaRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.map.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.mapLambda.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.orElseGet.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.orElseSample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.orElseThrow.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.parallel_sorted.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.prepareStatement.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.sample.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Exception.try_with_resources" />
@@ -110,13 +120,20 @@
       <command value="コンソール" />
     </option>
   </component>
-  <component name="RunManager" selected="アプリケーション.mapLambda">
-    <configuration name="Excutor.newFixedThreadpool.Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excutor.newFixedThreadpool.Sample" />
+  <component name="RunManager" selected="アプリケーション.ByteStream">
+    <configuration name="ByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sekachan.Stream.ByteStream" />
+      <module name="java_blackbook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaceStreamMethod.FunctionInterface" />
       <module name="java_blackbook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excutor.newFixedThreadpool.*" />
+          <option name="PATTERN" value="FunctionalInterfaceStreamMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendsThread.Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtendsThread.Sample" />
+    <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jdbc.Statement" />
       <module name="java_blackbook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExtendsThread.*" />
+          <option name="PATTERN" value="Jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,25 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplRunnable.Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImplRunnable.Sample" />
+    <configuration name="customFunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaceStreamMethod.customFunctionInterface" />
       <module name="java_blackbook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImplRunnable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lambdaRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImplRunnable.lambdaRunnable" />
-      <module name="java_blackbook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ImplRunnable.*" />
+          <option name="PATTERN" value="FunctionalInterfaceStreamMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Optional.mapLambda" />
+    <configuration name="prepareStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jdbc.prepareStatement" />
       <module name="java_blackbook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Optional.*" />
+          <option name="PATTERN" value="Jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.mapLambda" />
-        <item itemvalue="アプリケーション.lambdaRunnable" />
-        <item itemvalue="アプリケーション.ImplRunnable.Sample" />
-        <item itemvalue="アプリケーション.ExtendsThread.Sample" />
-        <item itemvalue="アプリケーション.Excutor.newFixedThreadpool.Sample" />
+        <item itemvalue="アプリケーション.ByteStream" />
+        <item itemvalue="アプリケーション.prepareStatement" />
+        <item itemvalue="アプリケーション.Statement" />
+        <item itemvalue="アプリケーション.customFunctionInterface" />
+        <item itemvalue="アプリケーション.FunctionInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721547134077</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="`java黒本のコードの動きを見てみたい用`">
+      <option name="closed" value="true" />
+      <created>1721794714038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721794714038</updated>
+    </task>
+    <task id="LOCAL-00007" summary="色々">
+      <option name="closed" value="true" />
+      <created>1721794989034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721794989034</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +292,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java黒本のコードの動きを見てみたい用" />
     <MESSAGE value="`java黒本のコードの動きを見てみたい用`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`java黒本のコードの動きを見てみたい用`" />
+    <MESSAGE value="色々" />
+    <option name="LAST_COMMIT_MESSAGE" value="色々" />
   </component>
 </project>

@@ -5,7 +5,7 @@ import java.util.List;
 
 
 //設問のコード
-//public class Sample {
+//public class futureSubmit1.Sample {
 //    public static void main(String[] args) {
 //        List<Integer> a = new ArrayList<>();
 //        a.add(1);
